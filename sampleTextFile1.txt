@@ -1,1 +1,3 @@
 This is a sample text file1, text is fine
+I need to know this stuffs today
+Pulling this to my local repository and see how it goes
