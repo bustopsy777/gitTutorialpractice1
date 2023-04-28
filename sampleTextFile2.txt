@@ -1,1 +1,1 @@
-This is a sample text file1, text is fine
+Make changes on master branch. This is a sample text file1, text is fine
